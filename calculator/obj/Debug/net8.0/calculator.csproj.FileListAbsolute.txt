@@ -1,0 +1,14 @@
+C:\Users\sofik\source\repos\FirstFinalProject\calculator\bin\Debug\net8.0\calculator.exe
+C:\Users\sofik\source\repos\FirstFinalProject\calculator\bin\Debug\net8.0\calculator.deps.json
+C:\Users\sofik\source\repos\FirstFinalProject\calculator\bin\Debug\net8.0\calculator.runtimeconfig.json
+C:\Users\sofik\source\repos\FirstFinalProject\calculator\bin\Debug\net8.0\calculator.dll
+C:\Users\sofik\source\repos\FirstFinalProject\calculator\bin\Debug\net8.0\calculator.pdb
+C:\Users\sofik\source\repos\FirstFinalProject\calculator\obj\Debug\net8.0\calculator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sofik\source\repos\FirstFinalProject\calculator\obj\Debug\net8.0\calculator.AssemblyInfoInputs.cache
+C:\Users\sofik\source\repos\FirstFinalProject\calculator\obj\Debug\net8.0\calculator.AssemblyInfo.cs
+C:\Users\sofik\source\repos\FirstFinalProject\calculator\obj\Debug\net8.0\calculator.csproj.CoreCompileInputs.cache
+C:\Users\sofik\source\repos\FirstFinalProject\calculator\obj\Debug\net8.0\calculator.dll
+C:\Users\sofik\source\repos\FirstFinalProject\calculator\obj\Debug\net8.0\refint\calculator.dll
+C:\Users\sofik\source\repos\FirstFinalProject\calculator\obj\Debug\net8.0\calculator.pdb
+C:\Users\sofik\source\repos\FirstFinalProject\calculator\obj\Debug\net8.0\calculator.genruntimeconfig.cache
+C:\Users\sofik\source\repos\FirstFinalProject\calculator\obj\Debug\net8.0\ref\calculator.dll

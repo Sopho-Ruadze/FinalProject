@@ -1,0 +1,14 @@
+C:\Users\sofik\source\repos\FirstFinalProject\Translator\bin\Debug\net8.0\Translator.exe
+C:\Users\sofik\source\repos\FirstFinalProject\Translator\bin\Debug\net8.0\Translator.deps.json
+C:\Users\sofik\source\repos\FirstFinalProject\Translator\bin\Debug\net8.0\Translator.runtimeconfig.json
+C:\Users\sofik\source\repos\FirstFinalProject\Translator\bin\Debug\net8.0\Translator.dll
+C:\Users\sofik\source\repos\FirstFinalProject\Translator\bin\Debug\net8.0\Translator.pdb
+C:\Users\sofik\source\repos\FirstFinalProject\Translator\obj\Debug\net8.0\Translator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sofik\source\repos\FirstFinalProject\Translator\obj\Debug\net8.0\Translator.AssemblyInfoInputs.cache
+C:\Users\sofik\source\repos\FirstFinalProject\Translator\obj\Debug\net8.0\Translator.AssemblyInfo.cs
+C:\Users\sofik\source\repos\FirstFinalProject\Translator\obj\Debug\net8.0\Translator.csproj.CoreCompileInputs.cache
+C:\Users\sofik\source\repos\FirstFinalProject\Translator\obj\Debug\net8.0\Translator.dll
+C:\Users\sofik\source\repos\FirstFinalProject\Translator\obj\Debug\net8.0\refint\Translator.dll
+C:\Users\sofik\source\repos\FirstFinalProject\Translator\obj\Debug\net8.0\Translator.pdb
+C:\Users\sofik\source\repos\FirstFinalProject\Translator\obj\Debug\net8.0\Translator.genruntimeconfig.cache
+C:\Users\sofik\source\repos\FirstFinalProject\Translator\obj\Debug\net8.0\ref\Translator.dll
