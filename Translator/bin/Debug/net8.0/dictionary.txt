@@ -1,5 +1,0 @@
-english,georgian,book,wigni
-english,georgian,girl,gogo
-english,georgian,boy,bichi
-english,georgian,hello,gamarjoba
-english,georgian,world,samyaro
