@@ -1,0 +1,14 @@
+C:\Users\sofik\source\repos\FirstFinalProject\FirstFinalProject\bin\Debug\net8.0\FirstFinalProject.exe
+C:\Users\sofik\source\repos\FirstFinalProject\FirstFinalProject\bin\Debug\net8.0\FirstFinalProject.deps.json
+C:\Users\sofik\source\repos\FirstFinalProject\FirstFinalProject\bin\Debug\net8.0\FirstFinalProject.runtimeconfig.json
+C:\Users\sofik\source\repos\FirstFinalProject\FirstFinalProject\bin\Debug\net8.0\FirstFinalProject.dll
+C:\Users\sofik\source\repos\FirstFinalProject\FirstFinalProject\bin\Debug\net8.0\FirstFinalProject.pdb
+C:\Users\sofik\source\repos\FirstFinalProject\FirstFinalProject\obj\Debug\net8.0\FirstFinalProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sofik\source\repos\FirstFinalProject\FirstFinalProject\obj\Debug\net8.0\FirstFinalProject.AssemblyInfoInputs.cache
+C:\Users\sofik\source\repos\FirstFinalProject\FirstFinalProject\obj\Debug\net8.0\FirstFinalProject.AssemblyInfo.cs
+C:\Users\sofik\source\repos\FirstFinalProject\FirstFinalProject\obj\Debug\net8.0\FirstFinalProject.csproj.CoreCompileInputs.cache
+C:\Users\sofik\source\repos\FirstFinalProject\FirstFinalProject\obj\Debug\net8.0\FirstFinalProject.dll
+C:\Users\sofik\source\repos\FirstFinalProject\FirstFinalProject\obj\Debug\net8.0\refint\FirstFinalProject.dll
+C:\Users\sofik\source\repos\FirstFinalProject\FirstFinalProject\obj\Debug\net8.0\FirstFinalProject.pdb
+C:\Users\sofik\source\repos\FirstFinalProject\FirstFinalProject\obj\Debug\net8.0\FirstFinalProject.genruntimeconfig.cache
+C:\Users\sofik\source\repos\FirstFinalProject\FirstFinalProject\obj\Debug\net8.0\ref\FirstFinalProject.dll
